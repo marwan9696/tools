@@ -1,3 +1,4 @@
+#Tool to search with a keyword in NVD (NATIONAL VULNERABILITY DATABASE) and look for CVEs
 import argparse
 import requests
 from bs4 import BeautifulSoup
